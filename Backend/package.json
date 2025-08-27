@@ -2,7 +2,7 @@
   "name": "my-backend",
   "version": "1.0.0",
   // "main": "server.js",
-  "main":"api/index.js"
+  "main":"api/index.js",
   "type": "module",
   "scripts": {
     "server": "nodemon server.js"
